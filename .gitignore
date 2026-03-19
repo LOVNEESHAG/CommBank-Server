@@ -1,0 +1,7 @@
+# Ignore secrets
+Secrets.json
+.env
+
+# .NET build files
+bin/
+obj/
